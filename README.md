@@ -1,6 +1,9 @@
 # CWUListApp
 ## Coding With Unc List App Tutorial
 
+Check out the tutorial on YouTube
+
+
 ## What you will learn
 
 - UITableView functions
